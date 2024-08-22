@@ -1,3 +1,11 @@
+Login Page Link : https://nxttrendzptwo.ccbp.tech/login
+
+username: rahul
+
+password: rahul@2021
+
+
+
 In this project, let's build **Nxt Trendz** app with authentication by applying the concepts we have learned till now.
 
 ### Refer to the image below:
